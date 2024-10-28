@@ -9,7 +9,7 @@ const getWeather = async (e) => {
 const options = {
 	method: 'GET',
 	headers: {
-		'x-rapidapi-key': '1f820aeddbmshc0d8ad3855a8160p1123b2jsnf0ca1f3abf0a',
+		'x-rapidapi-key': '',
 		'x-rapidapi-host': 'weatherapi-com.p.rapidapi.com'
 	}
 };
