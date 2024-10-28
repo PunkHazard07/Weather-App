@@ -1,0 +1,40 @@
+body{
+    font-size: 20px;
+} 
+
+.center{
+    text-align: center;
+}
+
+.container{
+    width: 500px; 
+}
+
+.container2{
+    background-color: lightgray;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.country{
+    margin: 20px;
+    width: 300px;
+    border-radius: 1px;
+    font-size: 16px;
+}
+
+
+button {
+    background-color: green; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
